@@ -13,7 +13,7 @@ DevCompass functions as an interactive developer research companion: ask any tec
 
 ## Frontend
 
-[https://dec-compass-ten.vercel.app](https://dev-compass-ten.vercel.app/)
+[https://dev-compass-ten.vercel.app](https://dev-compass-ten.vercel.app/)
 
 ## Backend
 
