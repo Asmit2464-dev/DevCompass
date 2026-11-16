@@ -9,6 +9,17 @@ DevCompass functions as an interactive developer research companion: ask any tec
 > **Stack:** React (Vite) · Node.js (Express) · MongoDB Atlas · Google Gemini · Tavily Search API · YouTube Data API v3
 
 ---
+# 🌐 Live Demo
+
+## Frontend
+
+[https://dec-compass-ten.vercel.app](https://dev-compass-ten.vercel.app/)
+
+## Backend
+
+[https://devcompass-backend.onrender.com](https://devcompass-backend.onrender.com)
+
+---
 
 ## ✨ Features
 
